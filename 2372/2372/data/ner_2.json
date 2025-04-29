@@ -1,0 +1,674 @@
+[
+    {
+        "sentence": "春王正月，公即位。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 5,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "三月，公会郑伯于垂，郑伯以璧假许田。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            },
+            {
+                "text": "垂",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "text": "许田",
+                "type": "Location",
+                "start": 15,
+                "end": 17
+            }
+        ]
+    },
+    {
+        "sentence": "夏四月丁未，公及郑伯盟于越。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "越",
+                "type": "Location",
+                "start": 12,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "sentence": "秋，大水。",
+        "entities": [
+            {
+                "text": "大水",
+                "type": "Disaster",
+                "start": 2,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "冬十月。",
+        "entities": []
+    },
+    {
+        "sentence": "春，王正月戊申，宋督弑其君与夷及其大夫孔父。",
+        "entities": [
+            {
+                "text": "宋督",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "滕子来朝。",
+        "entities": [
+            {
+                "text": "滕子",
+                "type": "Person",
+                "start": 0,
+                "end": 2
+            }
+        ]
+    },
+    {
+        "sentence": "三月，公会齐侯、陈侯、郑伯于稷，以成宋乱。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 11,
+                "end": 13
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            },
+            {
+                "text": "陈侯",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "成",
+                "type": "Location",
+                "start": 17,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "sentence": "夏四月，取郜大鼎于宋。",
+        "entities": []
+    },
+    {
+        "sentence": "戊申，纳于大庙。",
+        "entities": []
+    },
+    {
+        "sentence": "秋七月，杞侯来朝。",
+        "entities": [
+            {
+                "text": "杞侯",
+                "type": "Person",
+                "start": 4,
+                "end": 6
+            },
+            {
+                "text": "杞",
+                "type": "Location",
+                "start": 4,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "蔡侯、郑伯会于邓。",
+        "entities": [
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 3,
+                "end": 5
+            },
+            {
+                "text": "蔡侯",
+                "type": "Person",
+                "start": 0,
+                "end": 2
+            },
+            {
+                "text": "邓",
+                "type": "Location",
+                "start": 7,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "九月，入杞。",
+        "entities": [
+            {
+                "text": "杞",
+                "type": "Location",
+                "start": 4,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "公及戎盟于唐。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "text": "唐",
+                "type": "Location",
+                "start": 5,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "冬，公至自唐。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "text": "唐",
+                "type": "Location",
+                "start": 5,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "春正月，公会齐侯于嬴。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 6,
+                "end": 8
+            },
+            {
+                "text": "嬴",
+                "type": "Location",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "夏，齐侯、卫侯胥命于蒲。",
+        "entities": [
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 2,
+                "end": 4
+            },
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            },
+            {
+                "text": "蒲",
+                "type": "Location",
+                "start": 10,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "sentence": "六月，公会杞侯于郕。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "text": "杞侯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            },
+            {
+                "text": "杞",
+                "type": "Location",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "text": "郕",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "秋七月壬辰朔，日有食之，既。",
+        "entities": [
+            {
+                "text": "日有食之",
+                "type": "Astronomical Event",
+                "start": 7,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "sentence": "公子翬如齐逆女。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 0,
+                "end": 1
+            }
+        ]
+    },
+    {
+        "sentence": "九月，齐侯送姜氏于欢。",
+        "entities": [
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 3,
+                "end": 5
+            },
+            {
+                "text": "欢",
+                "type": "Location",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "公会齐侯于欢。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 2,
+                "end": 4
+            },
+            {
+                "text": "欢",
+                "type": "Location",
+                "start": 5,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "夫人姜氏至自齐。",
+        "entities": []
+    },
+    {
+        "sentence": "冬，齐侯使其弟年来聘。",
+        "entities": [
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 2,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "有年。",
+        "entities": []
+    },
+    {
+        "sentence": "春正月，公狩于郎。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "郎",
+                "type": "Location",
+                "start": 7,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "夏，天王使宰渠伯纠来聘。",
+        "entities": [
+            {
+                "text": "宰渠伯纠",
+                "type": "Person",
+                "start": 5,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "春正月，甲戌、己丑，陈侯鲍卒。",
+        "entities": [
+            {
+                "text": "陈侯",
+                "type": "Person",
+                "start": 10,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "sentence": "夏，齐侯郑伯如纪。",
+        "entities": [
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 4,
+                "end": 6
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 2,
+                "end": 4
+            },
+            {
+                "text": "纪",
+                "type": "Location",
+                "start": 7,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "天王使仍叔之子来聘。",
+        "entities": [
+            {
+                "text": "仍叔之子",
+                "type": "Person",
+                "start": 3,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "sentence": "葬陈桓公。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "城祝丘。",
+        "entities": []
+    },
+    {
+        "sentence": "秋，蔡人、卫人、陈人从王伐郑。",
+        "entities": []
+    },
+    {
+        "sentence": "大雩。",
+        "entities": []
+    },
+    {
+        "sentence": "螽。",
+        "entities": []
+    },
+    {
+        "sentence": "冬，州公如曹。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "text": "曹",
+                "type": "Location",
+                "start": 5,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "春正月，实来。",
+        "entities": []
+    },
+    {
+        "sentence": "夏四月，公会纪侯于成。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "纪侯",
+                "type": "Person",
+                "start": 6,
+                "end": 8
+            },
+            {
+                "text": "纪",
+                "type": "Location",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "成",
+                "type": "Location",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "秋八月壬午，大阅。",
+        "entities": []
+    },
+    {
+        "sentence": "蔡人杀陈佗。",
+        "entities": []
+    },
+    {
+        "sentence": "九月丁卯，子同生。",
+        "entities": []
+    },
+    {
+        "sentence": "冬，纪侯来朝。",
+        "entities": [
+            {
+                "text": "纪侯",
+                "type": "Person",
+                "start": 2,
+                "end": 4
+            },
+            {
+                "text": "纪",
+                "type": "Location",
+                "start": 2,
+                "end": 3
+            }
+        ]
+    },
+    {
+        "sentence": "春二月己亥，焚咸丘。",
+        "entities": [
+            {
+                "text": "咸丘",
+                "type": "Location",
+                "start": 7,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "夏，谷伯绥来朝。",
+        "entities": []
+    },
+    {
+        "sentence": "邓侯吾离来朝。",
+        "entities": [
+            {
+                "text": "邓侯吾离",
+                "type": "Person",
+                "start": 0,
+                "end": 4
+            },
+            {
+                "text": "邓",
+                "type": "Location",
+                "start": 0,
+                "end": 1
+            }
+        ]
+    },
+    {
+        "sentence": "春正月己卯，烝。",
+        "entities": []
+    },
+    {
+        "sentence": "天王使家父来聘。",
+        "entities": []
+    },
+    {
+        "sentence": "夏五月丁丑，烝秋，伐邾。",
+        "entities": []
+    },
+    {
+        "sentence": "冬十月，雨雪。",
+        "entities": []
+    },
+    {
+        "sentence": "祭公来，遂逆王后于纪。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "text": "纪",
+                "type": "Location",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "春，纪季姜归于京师。",
+        "entities": [
+            {
+                "text": "纪",
+                "type": "Location",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "text": "京师",
+                "type": "Location",
+                "start": 7,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "夏四月，秋七月。",
+        "entities": []
+    },
+    {
+        "sentence": "冬，曹伯使其世子射姑来朝。",
+        "entities": [
+            {
+                "text": "曹伯",
+                "type": "Person",
+                "start": 2,
+                "end": 4
+            },
+            {
+                "text": "射姑",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "曹",
+                "type": "Location",
+                "start": 2,
+                "end": 3
+            }
+        ]
+    }
+]

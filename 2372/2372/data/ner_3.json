@@ -1,0 +1,973 @@
+[
+    {
+        "sentence": "春王正月，庚申，曹伯终生卒。",
+        "entities": [
+            {
+                "text": "曹伯",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "曹",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "夏五月，葬曹桓公。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "text": "曹",
+                "type": "Location",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "text": "葬",
+                "type": "Event",
+                "start": 4,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "秋，公会卫侯于桃丘，弗遇。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 4,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "冬十有二月丙午，齐侯、卫侯、郑伯来战于郎。",
+        "entities": [
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 14,
+                "end": 16
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 11,
+                "end": 13
+            },
+            {
+                "text": "郎",
+                "type": "Location",
+                "start": 19,
+                "end": 20
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "text": "战",
+                "type": "Event",
+                "start": 17,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "sentence": "春正月，齐人、卫人、郑人盟于恶曹。",
+        "entities": [
+            {
+                "text": "曹",
+                "type": "Location",
+                "start": 15,
+                "end": 16
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 12,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "sentence": "夏五月癸未，郑伯寤生卒。",
+        "entities": [
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 6,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "秋七月，葬郑庄公。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "text": "葬",
+                "type": "Event",
+                "start": 4,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "九月，宋人执郑祭仲。突归于郑。郑忽出奔卫。",
+        "entities": []
+    },
+    {
+        "sentence": "柔会宋公、陈侯、蔡叔盟于折。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "text": "陈侯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 10,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "sentence": "公会宋公于夫钟。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 0,
+                "end": 1
+            }
+        ]
+    },
+    {
+        "sentence": "冬十月有二月，公会宋公于阚。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 7,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "春正月。",
+        "entities": []
+    },
+    {
+        "sentence": "夏六月壬寅，公会杞侯、莒子盟于曲池。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "杞侯",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "杞",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 13,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "秋七月丁亥，公会宋公、燕人盟于谷丘。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 13,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "八月壬辰，陈侯跃卒。",
+        "entities": [
+            {
+                "text": "陈侯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "sentence": "公会宋公于虚。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 0,
+                "end": 1
+            }
+        ]
+    },
+    {
+        "sentence": "冬十有一月，公会宋公于龟。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "sentence": "丙戌，公会郑伯，盟于武父。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 8,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "丙戌，卫侯晋卒。",
+        "entities": [
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 3,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "十有二月，及郑师伐宋。",
+        "entities": []
+    },
+    {
+        "sentence": "丁未，战于宋。",
+        "entities": [
+            {
+                "text": "战",
+                "type": "Event",
+                "start": 3,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "春二月，公会纪侯、郑伯。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 9,
+                "end": 11
+            },
+            {
+                "text": "纪侯",
+                "type": "Person",
+                "start": 6,
+                "end": 8
+            },
+            {
+                "text": "纪",
+                "type": "Location",
+                "start": 6,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "sentence": "己巳，及齐侯、宋公、卫侯、燕人战。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 4,
+                "end": 6
+            },
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 10,
+                "end": 12
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "战",
+                "type": "Event",
+                "start": 15,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "sentence": "齐师、宋师、卫师、燕师败绩。",
+        "entities": [
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 0,
+                "end": 1
+            }
+        ]
+    },
+    {
+        "sentence": "三月，葬卫宣公。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "葬",
+                "type": "Event",
+                "start": 3,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "夏，大水。",
+        "entities": [
+            {
+                "text": "大水",
+                "type": "Disaster",
+                "start": 2,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "秋七月。",
+        "entities": []
+    },
+    {
+        "sentence": "冬十月。",
+        "entities": []
+    },
+    {
+        "sentence": "春正月，公会郑伯于曹。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 6,
+                "end": 8
+            },
+            {
+                "text": "曹",
+                "type": "Location",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "无冰。",
+        "entities": []
+    },
+    {
+        "sentence": "夏五，郑伯使其弟语来盟。",
+        "entities": [
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 3,
+                "end": 5
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 10,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "sentence": "秋八月壬申，御廪灾。",
+        "entities": []
+    },
+    {
+        "sentence": "乙亥，尝。",
+        "entities": []
+    },
+    {
+        "sentence": "冬十有二月丁巳，齐侯禄父卒。",
+        "entities": [
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "宋人以齐人、蔡人、卫人、陈人伐郑。",
+        "entities": [
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 3,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "春二月，天王使家父来求车。",
+        "entities": []
+    },
+    {
+        "sentence": "三月乙未，天王崩。",
+        "entities": []
+    },
+    {
+        "sentence": "夏四月己巳，葬齐僖公。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 9,
+                "end": 10
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "text": "葬",
+                "type": "Event",
+                "start": 6,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "sentence": "五月，郑伯突出奔蔡。",
+        "entities": [
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 3,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "郑世子忽复归于郑。",
+        "entities": []
+    },
+    {
+        "sentence": "许叔入于许。",
+        "entities": []
+    },
+    {
+        "sentence": "公会齐侯于艾。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 2,
+                "end": 4
+            },
+            {
+                "text": "艾",
+                "type": "Location",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 2,
+                "end": 3
+            }
+        ]
+    },
+    {
+        "sentence": "邾人、牟人、葛人来朝。",
+        "entities": []
+    },
+    {
+        "sentence": "秋九月，郑伯突入于栎。",
+        "entities": [
+            {
+                "text": "郑伯",
+                "type": "Person",
+                "start": 4,
+                "end": 6
+            },
+            {
+                "text": "栎",
+                "type": "Location",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "冬十有一月，公会宋公、卫侯、陈侯于衰，伐郑。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 11,
+                "end": 13
+            },
+            {
+                "text": "陈侯",
+                "type": "Person",
+                "start": 14,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "sentence": "春正月，公会宋公、蔡侯、卫侯于曹。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "蔡侯",
+                "type": "Person",
+                "start": 9,
+                "end": 11
+            },
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 12,
+                "end": 14
+            },
+            {
+                "text": "曹",
+                "type": "Location",
+                "start": 15,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "sentence": "夏四月，公会宋公、卫侯、陈侯、蔡侯伐郑。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "text": "蔡侯",
+                "type": "Person",
+                "start": 15,
+                "end": 17
+            },
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 9,
+                "end": 11
+            },
+            {
+                "text": "陈侯",
+                "type": "Person",
+                "start": 12,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "秋七月，公至自伐郑。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 4,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "冬，城向。",
+        "entities": []
+    },
+    {
+        "sentence": "十有一月，卫侯朔出奔齐。",
+        "entities": [
+            {
+                "text": "卫侯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 10,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "sentence": "春正月丙辰，公会齐侯、纪侯盟于黄。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 8,
+                "end": 10
+            },
+            {
+                "text": "纪侯",
+                "type": "Person",
+                "start": 11,
+                "end": 13
+            },
+            {
+                "text": "纪",
+                "type": "Location",
+                "start": 11,
+                "end": 12
+            },
+            {
+                "text": "黄",
+                "type": "Location",
+                "start": 15,
+                "end": 16
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 13,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "二月丙午，公会邾仪父，盟于趡。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "text": "趡",
+                "type": "Location",
+                "start": 13,
+                "end": 14
+            },
+            {
+                "text": "盟",
+                "type": "Event",
+                "start": 11,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "sentence": "夏五月丙午，及齐师战于奚。",
+        "entities": [
+            {
+                "text": "奚",
+                "type": "Location",
+                "start": 11,
+                "end": 12
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "text": "战",
+                "type": "Event",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "六月丁丑，蔡侯封人卒。",
+        "entities": [
+            {
+                "text": "蔡侯",
+                "type": "Person",
+                "start": 5,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "sentence": "秋八月，蔡季自陈归于蔡。",
+        "entities": []
+    },
+    {
+        "sentence": "癸巳，葬蔡桓侯。",
+        "entities": [
+            {
+                "text": "葬",
+                "type": "Event",
+                "start": 3,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "及宋人、卫人伐邾。",
+        "entities": []
+    },
+    {
+        "sentence": "冬十月朔，日有食之。",
+        "entities": [
+            {
+                "text": "日有食之",
+                "type": "Astronomical Event",
+                "start": 5,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "春王正月，公会齐侯于泺。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "text": "齐侯",
+                "type": "Person",
+                "start": 7,
+                "end": 9
+            },
+            {
+                "text": "泺",
+                "type": "Location",
+                "start": 10,
+                "end": 11
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 7,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "公与夫人姜氏遂如齐。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "text": "姜氏",
+                "type": "Person",
+                "start": 4,
+                "end": 6
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "夏四月丙子，公薨于齐。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 9,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "丁酉，公之丧至自齐。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "text": "齐",
+                "type": "Location",
+                "start": 8,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "秋七月，冬十有二月己丑，葬我君桓公。",
+        "entities": [
+            {
+                "text": "公",
+                "type": "Person",
+                "start": 16,
+                "end": 17
+            },
+            {
+                "text": "葬",
+                "type": "Event",
+                "start": 12,
+                "end": 13
+            }
+        ]
+    }
+]
